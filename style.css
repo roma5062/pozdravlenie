@@ -14,7 +14,7 @@ body {
 .wrapper {
     min-height: 100%;
     height: 1px;
-    background-image: url(../img/dd32b3ce9e5b11ee923ab2bae0cf569f_upscaled.jpg);
+    background-image: url(img/dd32b3ce9e5b11ee923ab2bae0cf569f_upscaled.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
